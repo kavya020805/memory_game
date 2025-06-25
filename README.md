@@ -22,27 +22,6 @@ Players flip two cards at a time to find matching emoji pairs. The game tracks y
 
 ---
 
-## Available Scripts
-
-In the project directory, run:
-
-### `npm start`
-
-Runs the app in development mode.  
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.  
-The page reloads on edits.
-
-### `npm test`
-
-Launches the test runner in interactive watch mode.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.  
-Optimizes for best performance.
-
----
-
 ## Project Structure
 
 - `public/` — Static files including `index.html`
@@ -55,21 +34,3 @@ Optimizes for best performance.
   - `assets/` — Static assets if any
 
 ---
-
-## Deployment
-
-Deploy the contents of the `build` folder to any static hosting service.
-
----
-
-## Learn More
-
-- [React documentation](https://reactjs.org/)
-- [Create React App docs](https://create-react-app.dev/docs/getting-started/)
-- [Emojihub API](https://emojihub.herokuapp.com/)
-
----
-
-## License
-
-MIT License
