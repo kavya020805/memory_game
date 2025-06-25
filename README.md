@@ -21,3 +21,8 @@ Players flip two cards at a time to find matching emoji pairs. The game tracks y
 - Responsive design for desktop and mobile
 
 ---
+
+## Live Demo
+Try the game here: [React Memory Game Live](https://memory-game-five-olive.vercel.app/)
+
+---
