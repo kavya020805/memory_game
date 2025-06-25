@@ -2,7 +2,7 @@
 
 React Memory Game is an interactive card matching game built using the React framework. The game challenges your memory by allowing you to flip cards and find matching pairs. It uses the Emojihub API to dynamically fetch emoji images for the cards, making each game visually fun and engaging.
 
-Players flip two cards at a time to find matching emoji pairs. The game tracks your moves and helps improve your concentration and memory skills through repeated play.
+Players flip two cards at a time to find matching emoji pairs. The game helps improve your concentration and memory skills through repeated play.
 
 ---
 
