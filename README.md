@@ -18,7 +18,6 @@ Players flip two cards at a time to find matching emoji pairs. The game tracks y
 
 - Dynamic card images from Emojihub API
 - Smooth card flip animations
-- Move counter to track player's attempts
 - Responsive design for desktop and mobile
 
 ---
