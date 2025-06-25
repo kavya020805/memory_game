@@ -21,16 +21,3 @@ Players flip two cards at a time to find matching emoji pairs. The game tracks y
 - Responsive design for desktop and mobile
 
 ---
-
-## Project Structure
-
-- `public/` — Static files including `index.html`
-- `src/`
-  - `index.js` — Entry point
-  - `App.js` — Main app component
-  - `App.css` — Styles
-  - `components/MemoryGame.js` — Game logic and UI
-  - `api/` — API utilities for fetching emoji images
-  - `assets/` — Static assets if any
-
----
